@@ -1,0 +1,25 @@
+{
+  "name": "include",
+  "version": "0.1.0",
+  "description": "Helpers to require files without the relative paths.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/luiselizondo/include.git"
+  },
+  "main": "index.js",
+  "dependencies" : {
+      "path" : "*"
+  },
+  "keywords": [
+    "require",
+    "include ",
+    "relative",
+    "path",
+    "node"
+  ],
+  "author": {
+    "name":"Luis Elizondo",
+    "email": "lelizondo@gmail.com"
+  },
+  "license": "MIT"
+}
