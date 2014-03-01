@@ -1,5 +1,5 @@
 {
-  "name": "include",
+  "name": "includemvc",
   "version": "0.1.0",
   "description": "Helpers to require files without the relative paths.",
   "repository": {
