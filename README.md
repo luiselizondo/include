@@ -1,6 +1,6 @@
 # Install
 
-Currently not in npmjs.org
+  npm install includemvc
 
 # How to use
 Having a directory structure like this:
