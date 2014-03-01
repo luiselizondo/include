@@ -23,43 +23,50 @@ You can use any of the following methods to require your files
 
 ### include(module, type, file)
 
-Example: 
+Example:
+
 		var include = require("include");
 		var mycontroller = include("mymodule", "controllers");
 
 ### include.controller(module)
 
 Example:
+
 		var include = require("include");
 		var mycontroller = include.controller("mymodule");
 
 ### include.model(module)
 
 Example
+
 		var include = require("include");
 		var mymodel = include.model("mymodule");
 
 ### include.root(file)
 
 Example
+
 		var include = require("include");
 		var app = include.root("app");
 
 ### include.app()
 
 Example
+
 		var include = require("include");
 		var app = include.app();
 
 ### include.lib(file);
 
 Example
+
 		var include = require("include");
 		var mylib = include.lib("mylib");
 
 ### include.path(directory, file);
 
 Example
+
 		var include = require("include");
 		var mylib = include.path("lib", "mylib");
 
