@@ -1,6 +1,6 @@
 {
   "name": "includemvc",
-  "version": "0.1.2",
+  "version": "0.1.333",
   "description": "Helpers to require files without the relative paths.",
   "repository": {
     "type": "git",
